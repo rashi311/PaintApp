@@ -19,9 +19,7 @@ A simple and interactive **desktop drawing application** built using **PyQt6**, 
 ## 📷 Screenshot
 
 
-> ```md
-> ![Screenshot](screenshot13.png)
-> ```
+![Screenshot](screenshot13.png)
 
 ---
 
