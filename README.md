@@ -18,7 +18,9 @@ A simple and interactive **desktop drawing application** built using **PyQt6**, 
 
 ## 📷 Screenshot
 
-<img src="screenshot13.png" alt="Screenshot" width="400" />
+<div style="text-align: center;">
+  <img src="screenshot13.png" alt="Screenshot" width="400" />
+</div>
 
 ---
 
